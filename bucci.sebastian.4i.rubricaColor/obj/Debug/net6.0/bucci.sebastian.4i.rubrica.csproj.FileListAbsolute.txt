@@ -1,0 +1,15 @@
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\bin\Debug\net6.0\bucci.sebastian.4i.rubrica.exe
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\bin\Debug\net6.0\bucci.sebastian.4i.rubrica.deps.json
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\bin\Debug\net6.0\bucci.sebastian.4i.rubrica.runtimeconfig.json
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\bin\Debug\net6.0\bucci.sebastian.4i.rubrica.dll
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\bin\Debug\net6.0\bucci.sebastian.4i.rubrica.pdb
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.csproj.AssemblyReference.cache
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.AssemblyInfoInputs.cache
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.AssemblyInfo.cs
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.csproj.CoreCompileInputs.cache
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.dll
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\refint\bucci.sebastian.4i.rubrica.dll
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.pdb
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\bucci.sebastian.4i.rubrica.genruntimeconfig.cache
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\bucci.sebastian.4i.rubrica\obj\Debug\net6.0\ref\bucci.sebastian.4i.rubrica.dll
